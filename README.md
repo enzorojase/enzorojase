@@ -1,16 +1,22 @@
-## Hi there 👋
+Enzo Rojas
+Ciencia de datos | Cochabamba, Bolivia
+Construyo soluciones basadas en datos: análisis exploratorio, modelos de machine learning y detección de anomalías. Enfocado en convertir datos crudos en decisiones accionables.
+Stack
 
-<!--
-**enzorojase/enzorojase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lenguajes: Python
+Análisis y ML: pandas, NumPy, scikit-learn, TensorFlow
+Visualización: Matplotlib, Seaborn, Power BI
+Entornos: Jupyter
 
-Here are some ideas to get you started:
+Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Detección de anomalías en parques eólicos — Autoencoders aplicados al dataset CARE to Compare (Wind Farm A).
+🏎️ Clasificación podio F1 — Modelo de clasificación para predecir si un piloto termina en podio.
+🎬 Sistema de recomendación de animé — Recomendaciones personalizadas basadas en preferencias.
+📊 EDA datos de estudiantes — Análisis exploratorio y hallazgos clave.
+🧹 Limpieza de datos retail — Pipeline de limpieza sobre dataset de ventas.
+
+Contacto
+
+📧 enzo.rojas.escobar@gmail.com
+📍 Cochabamba, Bolivia
