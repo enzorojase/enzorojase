@@ -28,7 +28,7 @@ Proyectos destacados
 🧹 Limpieza de datos retail — Pipeline de limpieza sobre dataset de ventas.
 
 
-Contacto
+Contacto:
 
 📧 enzo.rojas.escobar@gmail.com
 📍 Bolivia
