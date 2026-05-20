@@ -1,4 +1,5 @@
 Enzo Rojas
+
 Ciencia de datos | Cochabamba, Bolivia
 Construyo soluciones basadas en datos: análisis exploratorio, modelos de machine learning y detección de anomalías. Enfocado en convertir datos crudos en decisiones accionables.
 Stack
@@ -19,4 +20,4 @@ Proyectos destacados
 Contacto
 
 📧 enzo.rojas.escobar@gmail.com
-📍 Cochabamba, Bolivia
+📍 Bolivia
