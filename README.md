@@ -1,8 +1,10 @@
 Enzo Rojas
 
-Ciencia de datos | Cochabamba, Bolivia
+Ciencia de datos | Bolivia
+
 Construyo soluciones basadas en datos: análisis exploratorio, modelos de machine learning y detección de anomalías. Enfocado en convertir datos crudos en decisiones accionables.
 Stack
+
 
 Lenguajes: Python
 
